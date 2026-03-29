@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+reima.db
+.env
+mail_outbox.log
